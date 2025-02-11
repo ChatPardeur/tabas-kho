@@ -529,6 +529,10 @@ main h3{
     text-align: center;
 }
 
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .acteur {
     display: flex;
     justify-content: center;
